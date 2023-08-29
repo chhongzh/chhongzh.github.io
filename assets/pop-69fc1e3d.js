@@ -1,0 +1,2 @@
+import{_ as c,r as e,o as _,c as a,a as t,b as o,w as l,F as d,d as r}from"./index-283fd24d.js";const i={},u=o("h1",null,"pop",-1),p=o("div",null,"删除栈顶数据",-1),h=o("h2",null,"参数",-1),m=o("div",null,"这是个不需要参数的函数",-1),f=o("h2",null,"示例",-1);function x(k,v){const n=e("Code"),s=e("RouterLink");return _(),a(d,null,[u,p,h,m,f,t(n,{content:`pop;
+`}),o("div",null,[t(s,{to:"/docs/builtin/_"},{default:l(()=>[r("返回上级")]),_:1})])],64)}const B=c(i,[["render",x]]);export{B as default};
