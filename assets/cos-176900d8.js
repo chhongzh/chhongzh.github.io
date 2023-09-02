@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as a,c as l,a as e,b as o,w as _,F as d,d as r}from"./index-b1c499a9.js";const i={},u=o("h1",null,"cos",-1),h=o("div",null,"返回某个数的余弦值",-1),f=o("h2",null,"用法",-1),m=o("h2",null,"返回值",-1),p=o("div",null,[o("span",null,"<int | float>")],-1);function x(k,v){const n=t("Code"),s=t("RouterLink");return a(),l(d,null,[u,h,f,e(n,{content:`cos <int | float>;
+`}),m,p,o("div",null,[e(s,{to:"/docs/stdlibs/math/index"},{default:_(()=>[r("返回上级")]),_:1})])],64)}const B=c(i,[["render",x]]);export{B as default};

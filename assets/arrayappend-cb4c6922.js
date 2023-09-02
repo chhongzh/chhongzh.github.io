@@ -1,0 +1,2 @@
+import{_ as a,r as n,o as r,c,a as t,b as e,w as l,F as d,d as _}from"./index-b1c499a9.js";const i={},u=e("h1",null,"Arrayappend",-1),p=e("div",null,"用于添加元素",-1),h=e("h2",null,"用法",-1),f=e("h2",null,"返回值",-1),m=e("div",null,[e("span",null,"<None>")],-1);function x(N,k){const o=n("Code"),s=n("RouterLink");return r(),c(d,null,[u,p,h,t(o,{content:`arrayappend <list> <int | str | float | None>;
+`}),f,m,e("div",null,[t(s,{to:"/docs/stdlibs/arrayutils/index"},{default:l(()=>[_("返回上级")]),_:1})])],64)}const y=a(i,[["render",x]]);export{y as default};

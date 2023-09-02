@@ -1,0 +1,2 @@
+import{_ as c,r as e,o as a,c as l,a as o,b as t,w as _,F as d,d as r}from"./index-b1c499a9.js";const i={},u=t("h1",null,"gcd",-1),h=t("div",null,"返回两个数的最大公约数",-1),f=t("h2",null,"用法",-1),m=t("h2",null,"返回值",-1),p=t("div",null,[t("span",null,"<int | float>")],-1);function x(b,k){const n=e("Code"),s=e("RouterLink");return a(),l(d,null,[u,h,f,o(n,{content:`abs <int | float>;
+`}),m,p,t("div",null,[o(s,{to:"/docs/stdlibs/math/index"},{default:_(()=>[r("返回上级")]),_:1})])],64)}const C=c(i,[["render",x]]);export{C as default};
