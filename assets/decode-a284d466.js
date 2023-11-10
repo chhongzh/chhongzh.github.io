@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as d,c as _,a as o,b as e,w as l,F as a,d as r}from"./index-4d2226e1.js";const i={},u=e("h1",null,"Decode",-1),h=e("div",null,"解码bytes",-1),f=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),p=e("div",null,[e("span",null,"<String>")],-1);function x(g,k){const n=t("Code"),s=t("RouterLink");return d(),_(a,null,[u,h,f,o(n,{content:`decode <Bytes> <String["utf-8","gbk"]>;
+`}),m,p,e("div",null,[o(s,{to:"/docs/stdlibs/string/index"},{default:l(()=>[r("返回上级")]),_:1})])],64)}const v=c(i,[["render",x]]);export{v as default};

@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./index-6646030e.js";const c={},n=s("p",null,"这是一个基于Python开发的类似于汇编的编程语言. 而相比汇编来说,它支持更高级的功能. 例如解释运行. ",-1),a=[n];function _(r,i){return t(),o("div",null,a)}const d=e(c,[["render",_]]);export{d as default};

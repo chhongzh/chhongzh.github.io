@@ -1,0 +1,2 @@
+import{_ as a,r as n,o as r,c,a as t,b as e,w as l,F as _,d}from"./index-4d2226e1.js";const i={},p=e("h1",null,"Arrayappend",-1),u=e("div",null,"用于添加元素",-1),h=e("h2",null,"用法",-1),f=e("h2",null,"返回值",-1),m=e("div",null,[e("span",null,"<None>")],-1);function x(N,k){const o=n("Code"),s=n("RouterLink");return r(),c(_,null,[p,u,h,t(o,{content:`array_append <list> <int | str | float | None>;
+`}),f,m,e("div",null,[t(s,{to:"/docs/stdlibs/array/index"},{default:l(()=>[d("返回上级")]),_:1})])],64)}const y=a(i,[["render",x]]);export{y as default};

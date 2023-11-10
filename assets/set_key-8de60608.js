@@ -1,0 +1,2 @@
+import{_ as a,r as t,o as c,c as _,a as n,b as e,w as l,F as d,d as r}from"./index-4d2226e1.js";const i={},p=e("h1",null,"Set_key",-1),u=e("div",null,"设置一个mapping的元素",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<None>")],-1);function k(x,g){const o=t("Code"),s=t("RouterLink");return c(),_(d,null,[p,u,h,n(o,{content:`set_key <Mapping> <Str | Int | Float> <Str | Int | Float>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/mapping/index"},{default:l(()=>[r("返回上级")]),_:1})])],64)}const C=a(i,[["render",k]]);export{C as default};

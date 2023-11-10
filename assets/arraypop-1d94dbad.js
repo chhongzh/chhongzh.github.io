@@ -1,0 +1,2 @@
+import{_ as a,r as o,o as c,c as r,a as t,b as e,w as _,F as l,d}from"./index-4d2226e1.js";const i={},p=e("h1",null,"Arraypop",-1),u=e("div",null,"删除一个数组栈顶元素",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<None>")],-1);function x(k,v){const n=o("Code"),s=o("RouterLink");return c(),r(l,null,[p,u,h,t(n,{content:`array_pop <list>;
+`}),m,f,e("div",null,[t(s,{to:"/docs/stdlibs/array/index"},{default:_(()=>[d("返回上级")]),_:1})])],64)}const C=a(i,[["render",x]]);export{C as default};

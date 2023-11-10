@@ -1,0 +1,2 @@
+import{_ as a,r as e,o as c,c as l,a as o,b as t,w as _,F as d,d as r}from"./index-4d2226e1.js";const i={},u=t("h1",null,"fabs",-1),f=t("div",null,"返回某个数的绝对值",-1),h=t("h2",null,"用法",-1),m=t("h2",null,"返回值",-1),p=t("div",null,[t("span",null,"<int | float>")],-1);function x(b,k){const n=e("Code"),s=e("RouterLink");return c(),l(d,null,[u,f,h,o(n,{content:`fabs <int | float>;
+`}),m,p,t("div",null,[o(s,{to:"/docs/stdlibs/math/index"},{default:_(()=>[r("返回上级")]),_:1})])],64)}const C=a(i,[["render",x]]);export{C as default};

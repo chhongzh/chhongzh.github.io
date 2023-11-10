@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as a,c as l,a as n,b as e,w as _,F as i,d as r}from"./index-4d2226e1.js";const d={},u=e("h1",null,"Capitalize",-1),p=e("div",null,"将首字母大写",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<Str>")],-1);function x(C,k){const o=t("Code"),s=t("RouterLink");return a(),l(i,null,[u,p,h,n(o,{content:`capitalize <Str>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/string/index"},{default:_(()=>[r("返回上级")]),_:1})])],64)}const z=c(d,[["render",x]]);export{z as default};

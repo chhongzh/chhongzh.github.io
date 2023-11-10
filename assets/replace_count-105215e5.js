@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as _,c as l,a as n,b as e,w as a,F as r,d}from"./index-4d2226e1.js";const i={},u=e("h1",null,"Replace_count",-1),p=e("div",null,"交换字符串中的大小写(限定次数)",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<String>")],-1);function x(g,k){const o=t("Code"),s=t("RouterLink");return _(),l(r,null,[u,p,h,n(o,{content:`replace_count <String> <String> <Int>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/string/index"},{default:a(()=>[d("返回上级")]),_:1})])],64)}const C=c(i,[["render",x]]);export{C as default};

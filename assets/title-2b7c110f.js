@@ -1,0 +1,2 @@
+import{_ as c,r as e,o as l,c as _,a as n,b as t,w as a,F as r,d}from"./index-4d2226e1.js";const i={},u=t("h1",null,"Title",-1),h=t("div",null,"将空格前的字符大写.",-1),m=t("h2",null,"用法",-1),p=t("h2",null,"返回值",-1),f=t("div",null,[t("span",null,"<Str>")],-1);function x(k,v){const o=e("Code"),s=e("RouterLink");return l(),_(r,null,[u,h,m,n(o,{content:`title <Str>;
+`}),p,f,t("div",null,[n(s,{to:"/docs/stdlibs/string/index"},{default:a(()=>[d("返回上级")]),_:1})])],64)}const B=c(i,[["render",x]]);export{B as default};

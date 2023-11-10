@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as r,c as _,a as n,b as e,w as l,F as a,d}from"./index-4d2226e1.js";const i={},u=e("h1",null,"Upper",-1),p=e("div",null,"将字符串转换为大写.",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<Str>")],-1);function x(k,v){const o=t("Code"),s=t("RouterLink");return r(),_(a,null,[u,p,h,n(o,{content:`upper <Str>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/string/index"},{default:l(()=>[d("返回上级")]),_:1})])],64)}const B=c(i,[["render",x]]);export{B as default};

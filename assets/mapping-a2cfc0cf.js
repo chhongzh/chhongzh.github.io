@@ -1,0 +1,2 @@
+import{_ as a,r as e,o as c,c as _,a as o,b as n,w as l,F as i,d}from"./index-4d2226e1.js";const p={},r=n("h1",null,"Mapping",-1),u=n("div",null,"创建一个空的Mapping",-1),m=n("h2",null,"用法",-1),h=n("h2",null,"返回值",-1),f=n("div",null,[n("span",null,"<Mapping>")],-1);function g(x,k){const t=e("Code"),s=e("RouterLink");return c(),_(i,null,[r,u,m,o(t,{content:`mapping;
+`}),h,f,n("div",null,[o(s,{to:"/docs/stdlibs/mapping/index"},{default:l(()=>[d("返回上级")]),_:1})])],64)}const C=a(p,[["render",g]]);export{C as default};

@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as l,c as a,a as e,b as o,w as _,F as r,d}from"./index-4d2226e1.js";const i={},u=o("h1",null,"floor",-1),f=o("div",null,"返回给定的数的向下取整, 即大于或等于给定的数的最大的整数.",-1),h=o("h2",null,"用法",-1),m=o("h2",null,"返回值",-1),p=o("div",null,[o("span",null,"<int>")],-1);function x(k,v){const n=t("Code"),s=t("RouterLink");return l(),a(r,null,[u,f,h,e(n,{content:`floor <int | float>;
+`}),m,p,o("div",null,[e(s,{to:"/docs/stdlibs/math/index"},{default:_(()=>[d("返回上级")]),_:1})])],64)}const B=c(i,[["render",x]]);export{B as default};

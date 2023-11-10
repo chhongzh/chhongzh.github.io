@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as _,c as a,a as n,b as o,w as l,F as d,d as r}from"./index-4d2226e1.js";const i={},u=o("h1",null,"To_json",-1),h=o("div",null,"将一个对象转换为json.",-1),p=o("h2",null,"用法",-1),m=o("h2",null,"返回值",-1),f=o("div",null,[o("span",null,"<str>")],-1);function x(j,k){const e=t("Code"),s=t("RouterLink");return _(),a(d,null,[u,h,p,n(e,{content:`to_json <Str | Int | Float | List | Mapping>;
+`}),m,f,o("div",null,[n(s,{to:"/docs/stdlibs/json/index"},{default:l(()=>[r("返回上级")]),_:1})])],64)}const C=c(i,[["render",x]]);export{C as default};

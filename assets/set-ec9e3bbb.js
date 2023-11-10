@@ -1,0 +1,2 @@
+import{_ as l,r as t,o as a,c,a as n,b as e,w as r,F as _,d as i}from"./index-4d2226e1.js";const d={},u=e("h1",null,"set",-1),h=e("div",null,"通过名字设置变量的值",-1),f=e("h2",null,"参数",-1),m=e("ul",null,[e("li",null,"(id)"),e("li",null,"(str | int | array | float)")],-1),p=e("h2",null,"示例",-1);function x(k,v){const o=t("Code"),s=t("RouterLink");return a(),c(_,null,[u,h,f,m,p,n(o,{content:`set Variable "This is a var";
+`}),e("div",null,[n(s,{to:"/docs/builtin/index"},{default:r(()=>[i("返回上级")]),_:1})])],64)}const V=l(d,[["render",x]]);export{V as default};

@@ -1,0 +1,2 @@
+import{_ as c,r as n,o as _,c as l,a as e,b as t,w as a,F as r,d}from"./index-4d2226e1.js";const i={},u=t("h1",null,"Count",-1),h=t("div",null,"计算一个字符串在另一个字符串的数量.",-1),m=t("h2",null,"用法",-1),p=t("h2",null,"返回值",-1),f=t("div",null,[t("span",null,"<Int>")],-1);function x(C,g){const o=n("Code"),s=n("RouterLink");return _(),l(r,null,[u,h,m,e(o,{content:`count <String> <String>;
+`}),p,f,t("div",null,[e(s,{to:"/docs/stdlibs/string/index"},{default:a(()=>[d("返回上级")]),_:1})])],64)}const v=c(i,[["render",x]]);export{v as default};

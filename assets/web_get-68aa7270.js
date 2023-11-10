@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as _,c as l,a as n,b as e,w as a,F as d,d as r}from"./index-4d2226e1.js";const i={},u=e("h1",null,"Web_get",-1),h=e("div",null,"通过get来请求网址",-1),m=e("h2",null,"用法",-1),p=e("h2",null,"返回值",-1),b=e("div",null,[e("span",null,"<IO>")],-1);function f(g,x){const o=t("Code"),s=t("RouterLink");return _(),l(d,null,[u,h,m,n(o,{content:`web_get <String>;
+`}),p,b,e("div",null,[n(s,{to:"/docs/stdlibs/weblib/index"},{default:a(()=>[r("返回上级")]),_:1})])],64)}const k=c(i,[["render",f]]);export{k as default};

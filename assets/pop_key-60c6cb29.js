@@ -1,0 +1,2 @@
+import{_ as c,r as o,o as _,c as a,a as n,b as e,w as l,F as d,d as r}from"./index-4d2226e1.js";const i={},p=e("h1",null,"Pop_key",-1),u=e("div",null,"删除Mapping的某个元素",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<Mapping>")],-1);function k(x,g){const t=o("Code"),s=o("RouterLink");return _(),a(d,null,[p,u,h,n(t,{content:`pop_key <Str | Int | Float>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/mapping/index"},{default:l(()=>[r("返回上级")]),_:1})])],64)}const C=c(i,[["render",k]]);export{C as default};

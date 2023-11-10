@@ -1,0 +1,2 @@
+import{_ as c,r as t,o as _,c as a,a as n,b as e,w as l,F as d,d as i}from"./index-4d2226e1.js";const r={},p=e("h1",null,"Get_keys",-1),u=e("div",null,"获取一个Mapping的所有键",-1),h=e("h2",null,"用法",-1),m=e("h2",null,"返回值",-1),f=e("div",null,[e("span",null,"<list[ <Str | Int | Float> ]>")],-1);function k(g,x){const o=t("Code"),s=t("RouterLink");return _(),a(d,null,[p,u,h,n(o,{content:`get_keys <Mapping>;
+`}),m,f,e("div",null,[n(s,{to:"/docs/stdlibs/mapping/index"},{default:l(()=>[i("返回上级")]),_:1})])],64)}const C=c(r,[["render",k]]);export{C as default};

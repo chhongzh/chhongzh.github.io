@@ -1,0 +1,2 @@
+import{_,r as n,o as c,c as i,a as e,b as t,w as a,F as l,d as r}from"./index-4d2226e1.js";const d={},u=t("h1",null,"Print_it",-1),p=t("div",null,"输出一个数据",-1),h=t("h2",null,"用法",-1),m=t("h2",null,"返回值",-1),f=t("div",null,[t("span",null,"<None>")],-1);function x(k,v){const o=n("Code"),s=n("RouterLink");return c(),i(l,null,[u,p,h,e(o,{content:`print_it <Str | Int | Float | Mapping | List>;
+`}),m,f,t("div",null,[e(s,{to:"/docs/stdlibs/print_it/index"},{default:a(()=>[r("返回上级")]),_:1})])],64)}const N=_(d,[["render",x]]);export{N as default};
